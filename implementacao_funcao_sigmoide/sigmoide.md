@@ -1,1 +1,4 @@
 # formula da função Sigmoide:  
+
+
+
